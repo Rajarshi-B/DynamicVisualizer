@@ -48,6 +48,12 @@ core/
 screenshots/        app screenshots
 ```
 
+## Screenshots
+
+![Screenshot 1](screenshots/ss1.png)
+
+![Screenshot 2](screenshots/ss2.png)
+
 ## Running Locally
 
 ```bash
